@@ -104,9 +104,9 @@ export const config = {
       ]
     },
     {
-      name: "台曾力",
-      id: "",
-      useTemplateId: "IDmLRNbB83rsaBzCJvoIYXY5TgP8otC6UZ5SkBlElX4",
+      name: "沐橙橙。",
+      id: "ovuRB6S7NnyQzIRR8mwMw9QlF0dc",
+      useTemplateId: "Ikuly2eVQc2Ez7y7E4zuZeDQhsF_LimgE30t0b7DXrA",
       province: "湖北",
       city: "武汉",
       horoscopeDate: '12-27',
@@ -114,6 +114,7 @@ export const config = {
       openUrl: "https://m.weibo.cn/",
       festivals: [
         {"type": "*生日", "name": "小仙女(台曾力)", "year": "1998", "date": "11-09"},
+        {"type": "节日", "name": "被搭讪纪念日", "year": "2022", "date": "09-12"},
       ],
       customizedDateList: [
         {"keyword": "love_day", date: "2022-09-12"}
